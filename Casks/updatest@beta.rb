@@ -1,6 +1,6 @@
 cask "updatest@beta" do
-  version "1.0.0.BETA,5408"
-  sha256 "0e9920baaaaa9993d3e9ec5712f2baad86e047261fb644d987fe14c935f819dc"
+  version "1.1.0.BETA,5634"
+  sha256 "1edd08b538845f2736c04498979c1f7276bcfbc8af4fafcc3e774061e2578dba"
 
   url "https://updatest.app/download/Updatest.zip"
   name "Updatest"
