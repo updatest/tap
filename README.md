@@ -1,6 +1,6 @@
 # Updatest Tap
 
-Homebrew tap for Updatest BETA releases.
+Homebrew tap for Updatest releases.
 
 https://updatest.app for more information
 
@@ -8,5 +8,5 @@ https://updatest.app for more information
 
 ```bash
 brew tap updatest/tap https://github.com/updatest/tap.git
-brew install --cask updatest@beta
+brew install --cask updatest
 ```
