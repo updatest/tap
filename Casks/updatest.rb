@@ -1,10 +1,10 @@
 cask "updatest" do
-  version "1.5.0,7086"
-  sha256 "55fbc2975fee04fa3aa7e0130df488a9a3b5ba58c760ad6007da7754be52ff00"
+  version "1.5.0,7095"
+  sha256 "9b9db4e86670349e4f739497177d8b323f5d8be0d1a3d6df875f09582cac0b3c"
 
   url "https://updatest.app/download/Updatest.zip"
   name "Updatest"
-  desc "All in one app update tool for macOS including Homebrew cask management"
+  desc "Your home for Mac updates"
   homepage "https://updatest.app"
 
   livecheck do
